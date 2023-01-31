@@ -1,0 +1,150 @@
+* {
+  margin: 0;
+  padding: 0;
+ box-sizing: border-box;
+
+}
+body {
+/* background-color: rgb(86, 103, 103); */
+background-color: rgba(89, 131, 252, 1);
+background-image: linear-gradient(90deg, rgba(89, 131, 252, 1) 0%, rgba(0, 255, 195, 1) 100%);
+}
+img {
+  width: 500px;
+  height: 350px;
+  border-radius: 20px;
+ 
+}
+
+
+
+.h1-text {
+ margin-left: 200px;
+  font-size: 60px;
+  text-shadow: -4px -4px 4px rgb(253, 253, 253);
+  color: rgb(121, 104, 167);
+  margin-top: 50px;
+
+}
+
+
+.hobby {
+margin-left: 200px;
+display: flex;
+justify-content: space-around;
+margin-top: 70px;
+}
+
+
+.text-hobby {
+  padding-top: 40px;
+  margin-right: 150px;
+}
+
+.h2-text {
+  font-size: 40px;
+  color: rgb(74, 74, 52);
+  
+ 
+}
+
+.img-hobby {
+margin-right: 70px;
+
+}
+
+
+.text-hobby-p {
+  font-size: 35px;
+  padding-top: 20px;
+  color: rgb(71, 66, 80);
+}
+
+a {
+  color: rgb(12, 11, 12);
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+.work {
+  display: flex;
+  margin-top: 100px;
+  justify-content: space-around;
+}
+
+
+.img-work {
+margin-right: 150px;
+
+}
+
+.h2-text-work {
+  font-size: 40px;
+  color: rgb(155, 155, 150);
+  padding-top: 30px;
+
+}
+
+
+
+.text-work {
+  font-size: 35px;
+  color: rgb(43, 8, 8);
+}
+
+
+.work-box {
+  text-shadow: -7px 0px 7px rgba(80, 90, 66, 1); 
+  margin-top: -70px;
+}
+
+
+.dream {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.img-dream {
+ margin-top: -100px;
+margin-right: 100px;
+}
+
+
+
+.dream-box {
+  padding-top: 50px;
+  padding-right: 200px;
+  text-align: center;
+}
+
+
+.h2-dream {
+
+  font-size: 40px;
+  text-shadow: -8px 0px 0px rgba(80, 90, 66, 1);
+  color: rgb(136, 33, 116);
+}
+
+
+
+.text-dream {
+  font-size: 30px;
+  color: rgb(179, 202, 32);
+  text-shadow: -5px 0px 0px rgba(33, 53, 114, 1);
+  padding-top: 30px;
+}
+
+
+
+
+
+
